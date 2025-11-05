@@ -1,7 +1,7 @@
 
 🐍 How to Play the Snake.io
 
-👉 Play 
+👉 Play https://froppydog.github.io/snakegame.github.io/
 
 
 ---
